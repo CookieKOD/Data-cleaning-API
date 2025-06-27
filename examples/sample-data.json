@@ -1,0 +1,143 @@
+[
+  {
+    "nom": "Jean Dupont",
+    "age": 28,
+    "salaire": 45000,
+    "departement": "IT",
+    "experience": 3
+  },
+  {
+    "nom": "Marie Martin",
+    "age": 35,
+    "salaire": 55000,
+    "departement": "RH",
+    "experience": 8
+  },
+  {
+    "nom": "Pierre Durand",
+    "age": null,
+    "salaire": 48000,
+    "departement": "Finance",
+    "experience": 5
+  },
+  {
+    "nom": "Sophie Bernard",
+    "age": 42,
+    "salaire": 62000,
+    "departement": "IT",
+    "experience": 12
+  },
+  {
+    "nom": "Luc Moreau",
+    "age": 29,
+    "salaire": 38000,
+    "departement": "Marketing",
+    "experience": 2
+  },
+  {
+    "nom": "Anne Petit",
+    "age": 31,
+    "salaire": 51000,
+    "departement": "IT",
+    "experience": 6
+  },
+  {
+    "nom": "Michel Roux",
+    "age": 45,
+    "salaire": 75000,
+    "departement": "Finance",
+    "experience": 18
+  },
+  {
+    "nom": "Isabelle Blanc",
+    "age": 38,
+    "salaire": 58000,
+    "departement": "RH",
+    "experience": 10
+  },
+  {
+    "nom": "François Noir",
+    "age": 33,
+    "salaire": 49000,
+    "departement": "Marketing",
+    "experience": 7
+  },
+  {
+    "nom": "Catherine Vert",
+    "age": 27,
+    "salaire": 41000,
+    "departement": "IT",
+    "experience": 4
+  },
+  {
+    "nom": "Jean Dupont",
+    "age": 28,
+    "salaire": 45000,
+    "departement": "IT",
+    "experience": 3
+  },
+  {
+    "nom": "Paul Rouge",
+    "age": 52,
+    "salaire": 85000,
+    "departement": "Finance",
+    "experience": 22
+  },
+  {
+    "nom": "Sylvie Bleu",
+    "age": 29,
+    "salaire": 43000,
+    "departement": "Marketing",
+    "experience": 3
+  },
+  {
+    "nom": "David Jaune",
+    "age": 36,
+    "salaire": 56000,
+    "departement": "IT",
+    "experience": 9
+  },
+  {
+    "nom": "Nathalie Rose",
+    "age": 41,
+    "salaire": 67000,
+    "departement": "RH",
+    "experience": 14
+  },
+  {
+    "nom": "Thomas Violet",
+    "age": 25,
+    "salaire": 35000,
+    "departement": "Marketing",
+    "experience": 1
+  },
+  {
+    "nom": "Céline Orange",
+    "age": 39,
+    "salaire": 61000,
+    "departement": "Finance",
+    "experience": 11
+  },
+  {
+    "nom": "Marc Gris",
+    "age": 44,
+    "salaire": 72000,
+    "departement": "IT",
+    "experience": 16
+  },
+  {
+    "nom": "Julie Marron",
+    "age": 32,
+    "salaire": 47000,
+    "departement": "RH",
+    "experience": 6
+  },
+  {
+    "nom": "Antoine Turquoise",
+    "age": 28,
+    "salaire": null,
+    "departement": "IT",
+    "experience": 4
+  }
+]
+

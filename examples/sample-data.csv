@@ -1,0 +1,32 @@
+nom,age,salaire,departement,experience
+Jean Dupont,28,45000,IT,3
+Marie Martin,35,55000,RH,8
+Pierre Durand,,48000,Finance,5
+Sophie Bernard,42,62000,IT,12
+Luc Moreau,29,38000,Marketing,2
+Anne Petit,31,51000,IT,6
+Michel Roux,45,75000,Finance,18
+Isabelle Blanc,38,58000,RH,10
+François Noir,33,49000,Marketing,7
+Catherine Vert,27,41000,IT,4
+Jean Dupont,28,45000,IT,3
+Paul Rouge,52,85000,Finance,22
+Sylvie Bleu,29,43000,Marketing,3
+David Jaune,36,56000,IT,9
+Nathalie Rose,41,67000,RH,14
+Thomas Violet,25,35000,Marketing,1
+Céline Orange,39,61000,Finance,11
+Marc Gris,44,72000,IT,16
+Julie Marron,32,47000,RH,6
+Antoine Turquoise,28,,IT,4
+Valérie Corail,37,59000,Finance,10
+Olivier Saumon,30,44000,Marketing,4
+Émilie Lavande,34,53000,IT,8
+Nicolas Beige,46,78000,Finance,19
+Sandrine Cyan,26,39000,Marketing,2
+Fabrice Magenta,40,65000,RH,13
+Aurélie Indigo,35,54000,IT,7
+Christophe Bordeaux,48,82000,Finance,20
+Stéphanie Olive,31,46000,Marketing,5
+Jérôme Argent,33,52000,IT,6
+

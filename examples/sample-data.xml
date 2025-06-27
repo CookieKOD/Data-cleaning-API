@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <record>
+    <nom>Jean Dupont</nom>
+    <age>28</age>
+    <salaire>45000</salaire>
+    <departement>IT</departement>
+    <experience>3</experience>
+  </record>
+  <record>
+    <nom>Marie Martin</nom>
+    <age>35</age>
+    <salaire>55000</salaire>
+    <departement>RH</departement>
+    <experience>8</experience>
+  </record>
+  <record>
+    <nom>Pierre Durand</nom>
+    <age></age>
+    <salaire>48000</salaire>
+    <departement>Finance</departement>
+    <experience>5</experience>
+  </record>
+  <record>
+    <nom>Sophie Bernard</nom>
+    <age>42</age>
+    <salaire>62000</salaire>
+    <departement>IT</departement>
+    <experience>12</experience>
+  </record>
+  <record>
+    <nom>Luc Moreau</nom>
+    <age>29</age>
+    <salaire>38000</salaire>
+    <departement>Marketing</departement>
+    <experience>2</experience>
+  </record>
+  <record>
+    <nom>Anne Petit</nom>
+    <age>31</age>
+    <salaire>51000</salaire>
+    <departement>IT</departement>
+    <experience>6</experience>
+  </record>
+  <record>
+    <nom>Michel Roux</nom>
+    <age>45</age>
+    <salaire>75000</salaire>
+    <departement>Finance</departement>
+    <experience>18</experience>
+  </record>
+  <record>
+    <nom>Isabelle Blanc</nom>
+    <age>38</age>
+    <salaire>58000</salaire>
+    <departement>RH</departement>
+    <experience>10</experience>
+  </record>
+  <record>
+    <nom>François Noir</nom>
+    <age>33</age>
+    <salaire>49000</salaire>
+    <departement>Marketing</departement>
+    <experience>7</experience>
+  </record>
+  <record>
+    <nom>Catherine Vert</nom>
+    <age>27</age>
+    <salaire>41000</salaire>
+    <departement>IT</departement>
+    <experience>4</experience>
+  </record>
+  <record>
+    <nom>Jean Dupont</nom>
+    <age>28</age>
+    <salaire>45000</salaire>
+    <departement>IT</departement>
+    <experience>3</experience>
+  </record>
+  <record>
+    <nom>Paul Rouge</nom>
+    <age>52</age>
+    <salaire>85000</salaire>
+    <departement>Finance</departement>
+    <experience>22</experience>
+  </record>
+  <record>
+    <nom>Sylvie Bleu</nom>
+    <age>29</age>
+    <salaire>43000</salaire>
+    <departement>Marketing</departement>
+    <experience>3</experience>
+  </record>
+  <record>
+    <nom>David Jaune</nom>
+    <age>36</age>
+    <salaire>56000</salaire>
+    <departement>IT</departement>
+    <experience>9</experience>
+  </record>
+  <record>
+    <nom>Nathalie Rose</nom>
+    <age>41</age>
+    <salaire>67000</salaire>
+    <departement>RH</departement>
+    <experience>14</experience>
+  </record>
+  <record>
+    <nom>Thomas Violet</nom>
+    <age>25</age>
+    <salaire>35000</salaire>
+    <departement>Marketing</departement>
+    <experience>1</experience>
+  </record>
+  <record>
+    <nom>Céline Orange</nom>
+    <age>39</age>
+    <salaire>61000</salaire>
+    <departement>Finance</departement>
+    <experience>11</experience>
+  </record>
+  <record>
+    <nom>Marc Gris</nom>
+    <age>44</age>
+    <salaire>72000</salaire>
+    <departement>IT</departement>
+    <experience>16</experience>
+  </record>
+  <record>
+    <nom>Julie Marron</nom>
+    <age>32</age>
+    <salaire>47000</salaire>
+    <departement>RH</departement>
+    <experience>6</experience>
+  </record>
+  <record>
+    <nom>Antoine Turquoise</nom>
+    <age>28</age>
+    <salaire></salaire>
+    <departement>IT</departement>
+    <experience>4</experience>
+  </record>
+</employees>
+
